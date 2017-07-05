@@ -1,4 +1,4 @@
-package com.csstack.design.patterns;
+package com.csstack.dp;
 
 /**
  * Hello world!
