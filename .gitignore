@@ -6,4 +6,5 @@ Singleton/target/
 Singleton/Singleton.iml
 Builder/target/
 Builder/Builder.iml
-
+Prototype/Prototype.iml
+Prototype/target/

@@ -10,6 +10,7 @@
     <module>singletom</module>
       <module>Singleton</module>
       <module>Builder</module>
+      <module>Prototype</module>
   </modules>
   <packaging>pom</packaging>
 
