@@ -1,2 +1,7 @@
 .idea/
 DesignPatterns.iml
+Factory/Factory.iml
+Factory/target/
+Singleton/target/
+Singleton/Singleton.iml
+
