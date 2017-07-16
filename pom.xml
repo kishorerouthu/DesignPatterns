@@ -9,6 +9,7 @@
     <module>Factory</module>
     <module>singletom</module>
       <module>Singleton</module>
+      <module>Builder</module>
   </modules>
   <packaging>pom</packaging>
 
